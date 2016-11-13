@@ -1,0 +1,19 @@
+// Setting the common Java and gradle wrapper, this should be the first `apply from` file.
+repositories {
+    jcenter()
+    mavenLocal()
+    mavenCentral()
+}
+apply plugin: 'java'
+
+apply from: 'application_build/version.gradle'
+
+compileJava {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+// Specify the gradle wrapper version
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.1'
+}

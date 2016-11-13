@@ -1,0 +1,14 @@
+group 'io.rai'
+version '1.0-SNAPSHOT'
+
+// init repository, java, wrapper
+apply from: 'application_build/init.gradle'
+
+// application build script
+apply from: 'application_build/application_build.gradle'
+
+// used by build and docker
+jar {
+    baseName = project.ext.baseName
+    version = project.ext.version
+}
