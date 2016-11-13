@@ -20,6 +20,9 @@ public interface CategoryRepository extends JpaRepository<Category, Integer> {
     @Query("update Category c set c.description = ?2 where c.id = ?1")
     void editCategoryDescription(int id, String description);
 
-
+    @Transactional
+    @Modifying
+    @Query(value = "delete from r_category_sub_categories where sub_categories_id = ?1", nativeQuery = true)
+    void deleteSucCategoryRelationship(int id);
 }
 

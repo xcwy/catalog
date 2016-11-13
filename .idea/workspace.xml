@@ -26,7 +26,41 @@
     <favorites_list name="catalog" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="CategoryServiceDeleteTest.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceDeleteTest.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/rai/catalog/service/CategoryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+              <folding>
+                <element signature="e#2938#2939#0" expanded="true" />
+                <element signature="e#2991#2992#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoryServiceAddTest.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceAddTest.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -313,6 +347,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceQueryTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/io/rai/catalog/repository/CategoryRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/groovy/io/rai/catalog/repository/CategoryRepositoryDeleteTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/io/rai/catalog/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceDeleteTest.groovy" />
       </list>
     </option>
   </component>
@@ -373,7 +412,157 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="gradle" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,9 +575,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.CategoryServiceUpdateTest.test 1 : update category name">
-    <configuration default="false" name="CategoryServiceUpdateTest.test 1 : update category name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.rai.catalog.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CategoryServiceDeleteTest.test 1 : delete top category by id">
+    <configuration default="false" name="CategoryServiceDeleteTest.test 2 : delete subCategory by id" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="io.rai.catalog.service.*" />
@@ -399,8 +595,112 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="io.rai.catalog.service" />
-      <option name="MAIN_CLASS_NAME" value="io.rai.catalog.service.CategoryServiceUpdateTest" />
-      <option name="METHOD_NAME" value="test 1 : update category name" />
+      <option name="MAIN_CLASS_NAME" value="io.rai.catalog.service.CategoryServiceDeleteTest" />
+      <option name="METHOD_NAME" value="test 2 : delete subCategory by id" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CategoryRepositoryDeleteTest.test 1 : use @Query to delete subCategory relationship" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.rai.catalog.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="catalog_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.rai.catalog.repository" />
+      <option name="MAIN_CLASS_NAME" value="io.rai.catalog.repository.CategoryRepositoryDeleteTest" />
+      <option name="METHOD_NAME" value="test 1 : use @Query to delete subCategory relationship" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CategoryRepositoryDeleteTest.test 2 : delete subCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.rai.catalog.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="catalog_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.rai.catalog.repository" />
+      <option name="MAIN_CLASS_NAME" value="io.rai.catalog.repository.CategoryRepositoryDeleteTest" />
+      <option name="METHOD_NAME" value="test 2 : delete subCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CategoryServiceAddTest.test 3 : add sub category to sub category" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.rai.catalog.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="catalog_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.rai.catalog.service" />
+      <option name="MAIN_CLASS_NAME" value="io.rai.catalog.service.CategoryServiceAddTest" />
+      <option name="METHOD_NAME" value="test 3 : add sub category to sub category" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="CategoryServiceDeleteTest.test 1 : delete top category by id" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.rai.catalog.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="catalog_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.rai.catalog.service" />
+      <option name="MAIN_CLASS_NAME" value="io.rai.catalog.service.CategoryServiceDeleteTest" />
+      <option name="METHOD_NAME" value="test 1 : delete top category by id" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -658,12 +958,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CategoryServiceUpdateTest.test 1 : update category name" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CategoryServiceDeleteTest.test 2 : delete subCategory by id" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CategoryRepositoryDeleteTest.test 1 : use @Query to delete subCategory relationship" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CategoryRepositoryDeleteTest.test 2 : delete subCategory" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CategoryServiceAddTest.test 3 : add sub category to sub category" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.CategoryServiceDeleteTest.test 1 : delete top category by id" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CategoryServiceUpdateTest.test 1 : update category name" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CategoryServiceDeleteTest.test 1 : delete top category by id" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CategoryServiceDeleteTest.test 2 : delete subCategory by id" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CategoryServiceAddTest.test 3 : add sub category to sub category" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CategoryRepositoryDeleteTest.test 2 : delete subCategory" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CategoryRepositoryDeleteTest.test 1 : use @Query to delete subCategory relationship" />
       </list>
     </recent_temporary>
   </component>
@@ -681,13 +989,40 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="CategoryRepositoryDeleteTest_test_1___use_@Query_to_delete_subCategory_relationship - 2016.11.13 at 21h 35m 19s.xml">
+      <configuration name="CategoryRepositoryDeleteTest.test 1 : use @Query to delete subCategory relationship" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryRepositoryDeleteTest_test_1___use_@Query_to_delete_subCategory_relationship - 2016.11.13 at 21h 36m 47s.xml">
+      <configuration name="CategoryRepositoryDeleteTest.test 1 : use @Query to delete subCategory relationship" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryRepositoryDeleteTest_test_2___delete_subCategory - 2016.11.13 at 21h 38m 31s.xml">
+      <configuration name="CategoryRepositoryDeleteTest.test 2 : delete subCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryServiceAddTest_test_3___add_sub_category_to_sub_category - 2016.11.13 at 21h 40m 45s.xml">
+      <configuration name="CategoryServiceAddTest.test 3 : add sub category to sub category" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryServiceDeleteTest_test_1___delete_top_category_by_id - 2016.11.13 at 21h 42m 14s.xml">
+      <configuration name="CategoryServiceDeleteTest.test 1 : delete top category by id" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryServiceDeleteTest_test_2___delete_subCategory_by_id - 2016.11.13 at 21h 21m 43s.xml">
+      <configuration name="CategoryServiceDeleteTest.test 2 : delete subCategory by id" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryServiceDeleteTest_test_2___delete_subCategory_by_id - 2016.11.13 at 21h 40m 03s.xml">
+      <configuration name="CategoryServiceDeleteTest.test 2 : delete subCategory by id" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryServiceDeleteTest_test_2___delete_subCategory_by_id - 2016.11.13 at 21h 41m 27s.xml">
+      <configuration name="CategoryServiceDeleteTest.test 2 : delete subCategory by id" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CategoryServiceQueryTest_test_1___use_jpa_method_to_query_category_by_id - 2016.11.13 at 21h 08m 18s.xml">
+      <configuration name="CategoryServiceQueryTest.test 1 : use jpa method to query category by id" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="CategoryServiceUpdateTest_test_1___update_category_name - 2016.11.13 at 20h 31m 40s.xml">
       <configuration name="CategoryServiceUpdateTest.test 1 : update category name" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -701,7 +1036,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -747,22 +1082,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceUpdateTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceQueryTest.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -779,5 +1098,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceQueryTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/repository/CategoryRepositoryDeleteTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/rai/catalog/repository/CategoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceUpdateTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceAddTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/io/rai/catalog/service/CategoryServiceDeleteTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/rai/catalog/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding>
+            <element signature="e#2938#2939#0" expanded="true" />
+            <element signature="e#2991#2992#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

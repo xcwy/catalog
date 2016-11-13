@@ -6,6 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -82,5 +83,26 @@ public class CategoryService {
         LOG.debug("enter editCategoryDescription, id is {}, description is {}", id, desctiption);
         categoryRepository.editCategoryDescription(id, desctiption);
         LOG.debug("end editCategoryDescription");
+    }
+
+    /**
+     * Find category by id category.
+     *
+     * @param id the id
+     * @return the category
+     */
+    public Category findCategoryById(int id) {
+        return categoryRepository.findOne(id);
+    }
+
+    /**
+     * Delet category by id.
+     *
+     * @param id the id
+     */
+    @Transactional
+    public void deletCategoryById(int id) {
+        categoryRepository.deleteSucCategoryRelationship(id);
+        categoryRepository.delete(id);
     }
 }
